@@ -12,6 +12,8 @@
 > [Luyao Tang](https://lytang63.github.io/)\*, [Yuxuan Yuan](https://scholar.google.co.uk/citations?user=I297pnoAAAAJ&hl=en)\*, [Chaoqi Chen](https://chaoqichen.github.io/)†, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Yue Huang](https://huangyue05.github.io/)† and [Kun Zhang](https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en)
 >
 > \*Equal contribution. †Corresponding authors.
+>
+> <em><b> CVPR 2025 </b></em>
 
 
 ## 🎈 News
