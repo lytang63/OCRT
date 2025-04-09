@@ -6,7 +6,7 @@
 
 </div>
 
-**Official PyTorch implementation** of the CVPR 2025 paper:
+**Official PyTorch implementation** of the paper:
 > **"OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad"**
 >
 > [Luyao Tang](https://lytang63.github.io/)\*, [Yuxuan Yuan](https://scholar.google.co.uk/citations?user=I297pnoAAAAJ&hl=en)\*, [Chaoqi Chen](https://chaoqichen.github.io/)†, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Yue Huang](https://huangyue05.github.io/)† and [Kun Zhang](https://scholar.google.com/citations?user=RGoypN4AAAAJ&hl=en)
